@@ -1,2 +1,3 @@
 # Filmoteka
-Group progect HTML, CSS, JS
+
+Group project HTML, CSS, JS
